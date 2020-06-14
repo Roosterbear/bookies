@@ -1,0 +1,16 @@
+Programar sin programar
+
+
+
+
+PROLOGO
+Este libro fue escrito para personas que programan, para quienes quieren programar y para aquellos que nunca 
+se han imaginado que pueden programar.
+
+La principal razon por la que escribi este libro, es porque a veces he querido leer algo que hable de programacion
+pero sin tener que escribir lineas de codigo, ya que voy de viaje o estoy esperando en un lugar sin computadora.
+
+La idea es manejar los conceptos de programacion de una manera amena que hasta un niño o un anciano puedan entender.
+
+Eso es lo que pretendo con esta publicacion, un libro que ademas de entretener, logre grabar los mejores conceptos
+esenciales para crear programas.|
